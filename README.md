@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Talvin</h1>
 <h3 align="center">A Cybersecurity student</h3>
 
-- 🔭 I’m currently working on **full stack projects and ethical hacking**
+- 🔭 I’m currently working on **full stack projects and cybersecurity projects**
 
 - 🌱 I’m currently learning **C**
 
