@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **C**
 
-- 💬 Ask me about **anything**
-
 - 📫 How to reach me **talvinrr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
